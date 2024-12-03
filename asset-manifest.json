@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/paperwallet/static/css/main.d7b8d93e.css",
-    "main.js": "/paperwallet/static/js/main.c267ff5e.js",
+    "main.css": "/paperwallet/static/css/main.bddb5967.css",
+    "main.js": "/paperwallet/static/js/main.125ff803.js",
     "static/js/52.309dd927.chunk.js": "/paperwallet/static/js/52.309dd927.chunk.js",
     "static/js/760.88cfb635.chunk.js": "/paperwallet/static/js/760.88cfb635.chunk.js",
     "static/js/265.9bf1b386.chunk.js": "/paperwallet/static/js/265.9bf1b386.chunk.js",
@@ -13,7 +13,7 @@
     "static/media/ecash-icon-blue.svg": "/paperwallet/static/media/ecash-icon-blue.89e1aa52f60b2eac333e.svg"
   },
   "entrypoints": [
-    "static/css/main.d7b8d93e.css",
-    "static/js/main.c267ff5e.js"
+    "static/css/main.bddb5967.css",
+    "static/js/main.125ff803.js"
   ]
 }
